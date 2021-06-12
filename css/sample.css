@@ -1,0 +1,63 @@
+/* NAVBAR */
+#navbar-row{
+    opacity: .9;
+}
+#navbar-ul{
+    margin-left:20px;
+    width: 100%;
+
+}
+.li-fonts{
+    font-size: 1.3rem;
+
+}
+
+
+/* carousel */
+.container-width{
+    max-width:60rem;
+}
+.carousel-item-height{
+    height: 30rem;
+    
+}
+
+
+/*  hr */
+
+.hr-style{
+    border-top: 1px solid #8c8b8b;
+    box-shadow: 0px 0px 1px 0px #a0a2a5,
+    0px 0px 1px 0px #a0a2a5;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+/* cards */
+.cards-specs{
+    margin-top: 10rem;
+}
+/* Modal  */
+.modal-background{
+    background-color: #35445e;
+}
+
+/* carousel-appartment*/
+
+.carousel-appartment-specs{
+    
+    max-width: 30rem;
+
+}
+
+
+/* footer */
+.footer-div{
+    background-color: rgba(31, 27, 27, 0.3);
+}
+
+
+
+
+
+

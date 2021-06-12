@@ -1,0 +1,53 @@
+
+/* Navbar */
+
+#navbar-ul{
+    margin-left:20px;
+
+}
+.li-fonts{
+    font-size: 1.3rem;
+    color: white;
+
+}
+
+
+#navbar-row{
+    background-color: #35445e;
+    color: white;
+}
+
+
+/* Jumbtron */
+.full-height{
+    height: 33rem;
+}
+
+/* places cards */
+
+
+/* .advertisement {
+    position: fixed;
+    bottom: 0;
+    padding: 50px 30px;
+    background: #433eff;
+    z-index: 1;
+    transition: all 1s;
+}
+.hide {
+    opacity:0;
+    left:-100%;
+}
+.show {
+    opacity:1;
+    left:0;
+} */
+
+
+/* footer */
+.footer-div{
+    background-color: rgba(31, 27, 27, 0.3);
+}
+
+
+
